@@ -6,6 +6,7 @@ A system that manages the data of the students (Name, Gender, Age, and Academic 
 The program collects the data in an array and displays each student data in a seperate line formatted as csv as indicated below
 
 `John Doe, M, 20, 3`
+
 `Jane Doe, F, 19, 2`
 
 ## User Constraints
