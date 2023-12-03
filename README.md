@@ -32,7 +32,7 @@ The program is divided into several C files, each responsible for a specific fun
 `output.c`
 
 
-## Program operation
+## Program Operation
 
 ### Startup:
 
