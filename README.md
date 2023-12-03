@@ -19,8 +19,6 @@ Academic Year must not exceed 5
 Students array size must not exceed 100
 
 
-##Navigation
-
 ## Program Structure
 The program is divided into several C files, each responsible for a specific functionality:
 
