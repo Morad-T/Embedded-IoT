@@ -24,14 +24,10 @@ Students array size must not exceed 100
 ## Program Structure
 The program is divided into several C files, each responsible for a specific functionality:
 
-
-`interface.h`
-`studentInput.c`
 `main.c`
-`dataEntry.c`
-`dataProcessing.c`
-`fileIO.c`
-`output.c`
+`interface.h`
+`App.c`
+`foo.c`
 
 
 ## Program Operation
